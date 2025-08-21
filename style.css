@@ -125,7 +125,7 @@ body{
     gap: 2rem;
     
 }
-.menu__item:hover .menu__arrow {
+.menu__item:hover svg {
     transform: rotate(180deg);
     transition: transform 0.2s ease;
 }
@@ -1047,5 +1047,6 @@ select {
   .footer__col li, ul {
     margin: 0;
   }
+
 
 }
