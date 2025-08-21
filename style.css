@@ -380,6 +380,7 @@ body{
 }
 .choose-plan{
   padding: var(--PaddingBlock);
+  margin-bottom: 50px;
   
 }
 .choose-plan__header{
@@ -1050,3 +1051,4 @@ select {
 
 
 }
+
